@@ -11,8 +11,8 @@
   width: 96px;
   box-sizing: content-box;
   height: 48px;
-  background: var(--card-bg-color);
-  border-color: var(--btn-text-color);
+  background: var(--btn-bg-color);
+  border-color: whitesmoke;
   border-style: solid;
   border-width: 2px 2px 50px 2px;
   border-radius: 100%;
@@ -24,8 +24,8 @@
   position: absolute;
   top: 50%;
   left: 0;
-  background: var(--card-bg-color);
-  border: 18px solid var(--btn-text-color);
+  background: var(--btn-bg-color);
+  border: 18px solid whitesmoke;
   border-radius: 100%;
   width: 12px;
   height: 12px;
@@ -36,8 +36,8 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  background: var(--btn-text-color);
-  border: 18px solid var(--card-bg-color);
+  background: whitesmoke;
+  border: 18px solid var(--btn-bg-color);
   border-radius: 100%;
   width: 12px;
   height: 12px;
